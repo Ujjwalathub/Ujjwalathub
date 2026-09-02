@@ -1,6 +1,60 @@
 # 💫 About Me:
 I am a 3rd-year B.Tech Computer Science student specializing in AI and Machine Learning, with a strong focus on building end-to-end intelligent applications. I bridge the gap between advanced data science and user experience by combining my expertise in Python, Deep Learning, and LLMs with modern frontend frameworks like React and Next.js. I am passionate about training neural networks and deploying practical AI solutions into scalable, interactive web platforms
+## Systems profile
 
+<p><code>ujjwalathub@github:~$ whoami</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ujjwalathub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201104924%3Fv%3D4&style=terminal" alt="ujjwalathub hero visual" />
+</p>
+
+**Ujjwal Singh** · Frontend or full-stack engineer
+
+## Runtime notes
+
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = remote
+PUBLIC_REPOS = 78
+COMMUNITY   = 3 followers</code></pre>
+
+Building useful things and learning in public.
+
+## Service toolkit
+
+<p><code>ujjwalathub@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=ujjwalathub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201104924%3Fv%3D4&style=terminal" alt="ujjwalathub stack visual" />
+</p>
+
+## System signals
+
+<table>
+<tr><td align="center"><b>78</b><br/><sub>repos</sub></td><td align="center"><b>2</b><br/><sub>stars</sub></td><td align="center"><b>198</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Reliable work
+
+- [AeroGuard-AI](https://github.com/Ujjwalathub/AeroGuard-AI) — JavaScript · 0 stars
+- [Fake-News-Classifier](https://github.com/Ujjwalathub/Fake-News-Classifier) — JavaScript · 0 stars
+- [GPT](https://github.com/Ujjwalathub/GPT) — JavaScript · 0 stars
+- [Rakshak-AI](https://github.com/Ujjwalathub/Rakshak-AI) — TypeScript · 0 stars
+- [WanderOps](https://github.com/Ujjwalathub/WanderOps) — JavaScript · 0 stars
+- [Logi-Slice-Prime](https://github.com/Ujjwalathub/Logi-Slice-Prime) — JavaScript · 0 stars
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ujjwalathub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201104924%3Fv%3D4" alt="ujjwalathub heatmap visual" />
+</p>
+
+## Open a channel
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ujjwalathub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201104924%3Fv%3D4" alt="ujjwalathub social visual" />
+</p>
+
+<a href="https://github.com/ujjwalathub">GitHub</a>
+
+<p align="center"><sub>Ujjwal Singh · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ujjwal-singh-994305327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thesinghujjwal@gmail.com) 
