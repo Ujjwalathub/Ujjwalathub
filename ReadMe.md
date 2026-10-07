@@ -3,7 +3,7 @@
 <h3 align="center">Machine Learning Engineer · Deep Learning · NLP / LLMs · Applied ML Systems</h3>
 
 <p align="center">
-  3rd-year B.Tech CSE (AI/ML) · Lamrin Tech Skills University (2024–2028)<br/>
+  3rd-year B.Tech CSE (AI/ML) <br/>
   I build ML systems end to end: data pipeline → model → explainability → API → deployed UI.
 </p>
 
